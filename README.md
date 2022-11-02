@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidzuma. Curious and ambitious data scientist always looking for new challenges.
-- 👀 I’m interested in python and machine learning. Here you can find some of projects:
+- 👀 I’m interested in python and machine learning. Here you can find my projects:
     * Master's thesis:
     * 
 - 💞️ If you are looking for collaboration do not hesitate to contact.
