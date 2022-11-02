@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and machine learning. Here you can find my projects:
     * Master's thesis:
     * 
-- 💞️ If you are looking for collaboration do not hesitate to contact.
+- If you are looking for collaboration do not hesitate to contact.
 - 📫 You can reach me sending an email to zumaquerodavid@gmail.com
 
 <!---
