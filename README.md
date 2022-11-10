@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @davidzuma. Curious and ambitious data scientist always looking for new challenges.
 - 👀 I’m interested in python and machine learning. Here you can find my projects:
     * Master's thesis example code
-    * Funding round clasification
+    * Funding round clasification (R)
+    * Telebot (bot who control publics parking availability)
+    * quexam (program to prepare certifications)
 - If you are looking for collaboration do not hesitate to contact.
 - 📫 You can reach me sending an email to zumaquerodavid@gmail.com
 
