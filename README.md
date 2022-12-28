@@ -4,6 +4,7 @@
     * Funding round clasification (R)
     * Telebot (bot who controls publics parking availability)
     * quexam (program to prepare certifications)
+    * advent-code-2022 (some solutions of the Aoc puzzles)
 - If you are looking for collaboration do not hesitate to contact.
 - 📫 You can reach me sending an email to zumaquerodavid@gmail.com
 
