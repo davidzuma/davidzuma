@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and machine learning. Here you can find my projects:
     * Master's thesis example code
     * Funding round clasification (R)
-    * Telebot (bot who control publics parking availability)
+    * Telebot (bot who controls publics parking availability)
     * quexam (program to prepare certifications)
 - If you are looking for collaboration do not hesitate to contact.
 - 📫 You can reach me sending an email to zumaquerodavid@gmail.com
