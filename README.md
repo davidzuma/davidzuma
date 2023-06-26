@@ -6,7 +6,7 @@
     * quexam (program to prepare certifications)
     * advent-code-2022 (some solutions of the Aoc puzzles)
 - If you are looking for collaboration do not hesitate to contact.
-- 📫 You can reach me sending an email to zumaquerodavid@gmail.com
+- 📫 You can ask me sending an email to zumaquerodavid@gmail.com
 
 <!---
 davidzuma/davidzuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
