@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davidzuma. Curious and ambitious data scientist always looking for new challenges.
 - 👀 I’m interested in python and machine learning but eager to learn and code other topics and coding languages.
 - If you are looking for collaboration do not hesitate to contact.
-- 📫 You can ask me sending an email to zumaquerodavid@gmail.com
+- 📫 zumaquerodavid@gmail.com.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
