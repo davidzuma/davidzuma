@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidzuma. Curious and ambitious python developer always looking for new challenges.
-- 👀 I’m interested in python and machine learning but eager to learn and code other topics and coding languages.
+- 👀 I’m interested in python, data engineering and machine learning but eager to learn and code other topics and coding languages.
 - If you are looking for collaboration do not hesitate to contact.
 - 📫 zumaquerodavid@gmail.com.
 
