@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @davidzuma. Curious and ambitious python developer always looking for new challenges.
-- 👀 I’m interested in python, data engineering and machine learning but eager to learn and code other topics and coding languages.
+- 👋 Hi, I’m @davidzuma. Curious and ambitious AI & Data Engineer always looking for new challenges.
 - If you are looking for collaboration do not hesitate to contact.
 - 📫 zumaquerodavid@gmail.com.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -24,6 +24,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
 <!---
 davidzuma/davidzuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
